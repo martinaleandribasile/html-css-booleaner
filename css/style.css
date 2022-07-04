@@ -22,7 +22,7 @@ body {
 .notehead {
     background-image: url("../img/pattern.png");
     background-repeat: repeat;
-    background-size: contain;
+    background-size: auto 180%;
     background-color: #4ea0ff;
 }
 
