@@ -10,8 +10,8 @@ body {
 
 .page {
     background-color: white;
-    margin-left: 130px;
-    margin-right: 130px;
+    margin-left: 120px;
+    margin-right: 120px;
 }
 
 .logo {
@@ -24,4 +24,62 @@ body {
     background-repeat: repeat;
     background-size: contain;
     background-color: #4ea0ff;
+}
+
+section {
+    padding-left: 13px;
+}
+
+.mainTitle {
+    font-size: 40px;
+    padding-top: 10px;
+}
+
+.references {
+    color: #888888;
+}
+
+.specialcolor {
+    color: #53bdeb;
+}
+
+h5.references {
+    font-weight: 100;
+}
+
+.imageTim {
+    margin-top: 20px;
+}
+
+figcaption {
+    font-size: 11px;
+}
+
+.mainContents {
+    margin-top: 30px;
+}
+
+.decorationText {
+    background-color: yellow;
+}
+
+ul {
+    padding-left: 10px;
+}
+
+table {
+    width: 100%;
+    border-spacing: 0px;
+
+}
+
+th {
+    width: 33%;
+    text-align: left;
+    background-color: #20a9e5;
+    color: white;
+}
+
+.rowcolor {
+    background-color: #b1e5f2;
 }
