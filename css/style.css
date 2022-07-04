@@ -26,7 +26,8 @@ body {
     background-color: #4ea0ff;
 }
 
-section {
+section,
+footer {
     padding-left: 13px;
 }
 
@@ -82,4 +83,23 @@ th {
 
 .rowcolor {
     background-color: #b1e5f2;
+}
+
+.photo {
+    width: 312px;
+    height: 208px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.monitor {
+    background-image: url("../img/monitor.jpg");
+}
+
+.graph {
+    background-image: url("../img/graph.jpg");
+}
+
+.details {
+    color: white;
 }
