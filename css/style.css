@@ -19,16 +19,12 @@ body {
 
 }
 
+/*potevo modificare anche la size di .logo */
 .notehead {
     background-image: url("../img/pattern.png");
     background-repeat: repeat;
     background-size: auto 180%;
     background-color: #4ea0ff;
-}
-
-section,
-footer {
-    padding-left: 13px;
 }
 
 .mainTitle {
